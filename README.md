@@ -1,5 +1,5 @@
 # NCM
-用于将网易ncm音乐格式转换到mp3
+Used for converting NetEase NCM music format to MP3
 
-### 注意
-仅用户学习交流请勿商业用途
+### attention
+For user learning and exchange only, please do not use for commercial purposes
